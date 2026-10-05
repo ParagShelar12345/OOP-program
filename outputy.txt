@@ -1,0 +1,6 @@
+Add two integers = 33
+Add three integers = 38
+Add two doubles = 3
+Name: UNKNOWN, Age: 0
+Name: Parag, Age: 22
+Name: Parag, Age: 22

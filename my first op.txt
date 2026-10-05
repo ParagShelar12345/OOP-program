@@ -1,0 +1,17 @@
+Concatenation:  Hello  World
+Length of str1: 6
+Character at index 1: H
+Substring of str2 (0-3):  Wo
+Equal str1 and str2 = false
+Uppercase =  HELLO
+Lowercase =  world
+Square root of a: 4.0
+a raised to b: 28526.20085808741
+Max of a and b: 16.0
+Min of a and b: 3.7
+Random number (0-1): 0.03733858522429501
+Random number (10-20): 18.788925418131715
+Random number (1-30): 15.770171188693865
+Ceil of b: 4.0
+floor of b: 3.0
+round of b: 4

@@ -1,0 +1,8 @@
+Arithmatic opration result:30
+x + y =13
+x - y =7
+x * y =30
+x / y =3
+x % y =1
+Addtion:9
+multiplicarion=24
